@@ -188,37 +188,37 @@ nav ul a:active {
 } /* Skill levels */
 #one {
   height: 1em;
-  width: 80%;
-  background: #2d2d2d;
+  width: 95%;
+  background: #2D2D2D;
   display: block;
 }
 #two {
   height: 1em;
-  width: 73%;
-  background: #2d2d2d;
+  width: 80%;
+  background: #2D2D2D;
   display: block;
 }
 #three {
   height: 1em;
-  width: 64%;
+  width: 70%;
   background: #2d2d2d;
   display: block;
 }
 #four {
   height: 1em;
-  width: 60%;
+  width: 95%;
   background: #2d2d2d;
   display: block;
 }
 #five {
   height: 1em;
-  width: 50%;
+  width: 75%;
   background: #2d2d2d;
   display: block;
 }
 #six {
   height: 1em;
-  width: 60%;
+  width: 85%;
   background: #2d2d2d;
   display: block;
 }
